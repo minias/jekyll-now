@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
+### What's mean 'minias'?
 
+### Spec
 
 ### More Information
-
-
 
 ### Contact me
 
